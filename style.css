@@ -1,0 +1,26 @@
+body {
+    font: normal 15pt Arial;
+    background: tomato;
+}
+
+section {
+    background: #FFFFFF;
+    border-radius: 15px;
+    box-shadow: 3px 3px 0.365px #000000;
+    width:500px;
+    margin: auto;
+    padding: 15px;    
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+footer {
+    color: #FFFFFF;
+    font: normal 10pt Arial;
+    text-align: center;
+    
+    
+}
